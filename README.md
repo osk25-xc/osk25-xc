@@ -1,170 +1,57 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:7B2FF7&height=200&section=header&text=OMKAR%20S.%20KSHIRSAGAR&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20INSIGHT%20BUILDER&descAlignY=60&descSize=17&animation=twinkling" width="100%" alt="Animated profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,50:4158D0,100:7B2FF7&height=220&section=header&text=OMKAR%20S.%20KSHIRSAGAR&fontSize=35&fontColor=ffffff&fontAlignY=42&desc=DATA%20ANALYST%20%7C%20SQL%20%7C%20EXCEL%20%7C%20POWER%20BI%20%7C%20PYTHON&descAlignY=63&descSize=14&animation=twinkling" width="100%" alt="Animated profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Turning+Raw+Data+into+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Building+Interactive+Dashboards;Learning+Every+Day+%F0%9F%9A%80" alt="Animated introduction"/>
-
-<br/>
-
-<a href="https://github.com/osk25-xc">
-<img src="https://komarev.com/ghpvc/?username=osk25-xc&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Turning+Data+into+Business+Insights;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;Analytics+%7C+Reporting+%7C+Visualization" alt="Animated introduction"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding illustration"/>
+I'm **Omkar S. Kshirsagar**, building practical skills in data analytics, business reporting, and visualization. I enjoy exploring datasets, writing SQL queries, preparing reports, and presenting findings clearly.
 
-Hi! I'm **Omkar S. Kshirsagar**, an aspiring Data Analyst passionate about data exploration, business intelligence and visualization.
+- **Focus:** Data Analyst and MIS reporting
+- **Analytics:** Python, Pandas, SQL
+- **Reporting:** Excel, Power BI, KPI dashboards
+- **Approach:** Define the business question, validate the data, analyze results, and communicate insights.
 
-- 📊 Interested in Data Analytics and MIS reporting
-- 🐍 Working with Python, Pandas and NumPy
-- 🗃️ Practicing SQL and business data analysis
-- 📈 Creating Excel and Power BI dashboards
-- 🎯 Focused on turning datasets into meaningful insights
-- 🚀 Building practical projects to improve my analytical skills
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
+## Skills
 
 <div align="center">
-
-### Languages & Analysis
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,git,github,vscode" alt="Technology icons"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Technology icons"/><br/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-
 </div>
 
----
+## Featured Projects
 
-## 📂 Featured Projects
+| Project | Focus | Tools |
+|---|---|---|
+| [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel) | KPIs and interactive reporting | Excel |
+| [Retail Sales Analysis — Power BI](https://github.com/osk25-xc/Retail-Sales-Analysis-PowerBI) | Dashboard, DAX and slicers | Power BI |
+| [SQL Business Sales Analysis](https://github.com/osk25-xc/SQL-Business-Sales-Analysis) | Revenue, profit and trends | MySQL |
+| [Superstore Sales Analysis](https://github.com/osk25-xc/Superstore-SQL-Analysis) | Retail performance | SQL, Python |
+| [Customer Churn Analysis](https://github.com/osk25-xc/Customer-Churn-Analysis) | Churn patterns | Python |
+| [HR Analytics](https://github.com/osk25-xc/HR-Analytics-Employee-Performance) | Attrition and workforce analysis | Python |
+| [Retail Customer Segmentation](https://github.com/osk25-xc/Retail-Customer-Segmentation) | RFM segmentation | Python |
+| [MLOps Churn Project](https://github.com/osk25-xc/mlops-churn-project) | Model pipeline and API structure | Python, MLflow, FastAPI, Docker |
+| [E-commerce Sales Analysis](https://github.com/osk25-xc/Ecommerce-Sales-Analysis) | Sales analytics | See repository details |
 
-<div align="center">
+## Analytics Workflow
 
-<a href="https://github.com/osk25-xc/Ecommerce-Sales-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osk25-xc&repo=Ecommerce-Sales-Analysis&theme=tokyonight&hide_border=true" alt="E-commerce Sales Analysis project card"/>
-</a>
+1. Define the business question and KPIs.
+2. Validate data quality and assumptions.
+3. Analyze with SQL, Excel, or Python.
+4. Build clear visuals and dashboards.
+5. Summarize findings and practical next steps without overstating conclusions.
 
-<a href="https://github.com/osk25-xc/Customer-Churn-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osk25-xc&repo=Customer-Churn-Analysis&theme=tokyonight&hide_border=true" alt="Customer Churn Analysis project card"/>
-</a>
+## Connect
 
-<a href="https://github.com/osk25-xc/SQL-Business-Sales-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=osk25-xc&repo=SQL-Business-Sales-Analysis&theme=tokyonight&hide_border=true" alt="SQL Business Sales Analysis project card"/>
-</a>
+- GitHub: [@osk25-xc](https://github.com/osk25-xc)
+- LinkedIn: [Omkar S. Kshirsagar](https://www.linkedin.com/in/omkar-s-kshirsagar-07298b2b1/)
 
-</div>
-
-### 🛒 E-commerce Sales Analysis
-
-Analyzing e-commerce sales data with SQL to explore sales performance, product trends and business insights.
-
-**Tools:** SQL
-
-### 👥 Customer Churn Analysis
-
-Exploring customer churn patterns and customer behavior to understand retention-related trends.
-
-**Tools:** Use the technologies actually implemented in the repository.
-
-### 💼 SQL Business Sales Analysis
-
-Using SQL queries to answer business questions and analyze sales performance.
-
-**Tools:** SQL
-
-### 📊 Retail Sales Analysis — Excel
-
-Building a retail sales dashboard with formulas, Pivot Tables, charts and business KPIs.
-
-**Tools:** Microsoft Excel
-
-### 📈 Retail Sales Dashboard — Power BI
-
-Creating interactive reports for sales, profit, categories and slicer-driven KPI analysis.
-
-**Tools:** Power BI, Power Query and DAX where implemented.
-
-> Excel and Power BI projects ko publish karne ke baad unke actual repository links aur dashboard screenshots yahan add karna.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=osk25-xc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osk25-xc&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=osk25-xc&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
-> Snake animation ke liye alag GitHub Actions workflow configure karna pad sakta hai. Agar image nahi dikhe, neeche diya setup follow karna.
-
----
-
-## 🎯 Currently Improving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-Advanced_Practice-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL practice"/>
-<img src="https://img.shields.io/badge/Excel-Dashboards-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel dashboards"/>
-<img src="https://img.shields.io/badge/Power_BI-Data_Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI visualization"/>
-<img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python analytics"/>
-
-</div>
-
-- Advanced SQL queries and analytical problem-solving
-- Excel reporting and interactive dashboards
-- Power BI visualizations and DAX
-- Python-based exploratory data analysis
-- Business KPIs and data storytelling
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/osk25-xc">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omkar-s-kshirsagar-07298b2b1/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-**Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:4158D0,100:00D9FF&height=130&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
-
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:7B2FF7&height=100&section=footer" width="100%" alt="Decorative footer"/></div>
