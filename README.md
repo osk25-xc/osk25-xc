@@ -31,9 +31,13 @@ I'm **Omkar S. Kshirsagar**, building practical skills in data analytics, busine
 
 | Project | Focus | Tools |
 |---|---|---|
+| [MIS Monthly Reporting Automation](https://github.com/osk25-xc/omkar) | Sales vs target, profit, region and department reporting | Excel |
 | [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel) | KPIs and interactive reporting | Excel |
 | [Retail Sales Analysis — Power BI](https://github.com/osk25-xc/Retail-Sales-Analysis-PowerBI) | Dashboard, DAX and slicers | Power BI |
 | [SQL Business Sales Analysis](https://github.com/osk25-xc/SQL-Business-Sales-Analysis) | Revenue, profit and trends | MySQL |
+| [E-commerce Customer & Revenue Deep Dive](https://github.com/osk25-xc/SQL-Business-Sales-Analysis/blob/main/sql/09_customer_revenue_deep_dive.sql) | Monthly revenue, customer ranking, category profitability | SQL |
+| [Operations & Inventory Dashboard](https://github.com/osk25-xc/omkar/tree/main/projects/operations-inventory-dashboard) | Stock, reorder risk and warehouse reporting | Power BI |
+| [Data Cleaning & Quality Audit](https://github.com/osk25-xc/omkar/tree/main/projects/data-quality-audit) | Data validation and quality checks | Python, Pandas |
 | [Superstore Sales Analysis](https://github.com/osk25-xc/Superstore-SQL-Analysis) | Retail performance | SQL, Python |
 | [Customer Churn Analysis](https://github.com/osk25-xc/Customer-Churn-Analysis) | Churn patterns | Python |
 | [HR Analytics](https://github.com/osk25-xc/HR-Analytics-Employee-Performance) | Attrition and workforce analysis | Python |
