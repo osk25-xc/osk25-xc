@@ -26,6 +26,11 @@ I enjoy taking raw datasets, understanding the business question, checking data 
 ## 🧰 Skills & Tools
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
+
+<div align="center">
 
 ### Data Analysis & Programming
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" alt="Python, MySQL and PostgreSQL"/>
@@ -54,6 +59,11 @@ I enjoy taking raw datasets, understanding the business question, checking data 
 | **Analytics** | Revenue, profit, margin, growth, churn, retention, segmentation, trend analysis |
 
 ## 🚀 Project Portfolio
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
 
 These projects are hands-on portfolio work using practice datasets. Project descriptions explain the analysis focus; check each repository for the current files, implementation, and outputs.
 
@@ -141,6 +151,11 @@ A learning project exploring an end-to-end machine-learning workflow.
 ## 🧭 My End-to-End Analytics Process
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/01-Understand_the_Business_Problem-3B2925?style=for-the-badge" alt="Step 1"/>
 <img src="https://img.shields.io/badge/02-Inspect_and_Clean_Data-5A3828?style=for-the-badge" alt="Step 2"/>
@@ -157,6 +172,11 @@ A learning project exploring an end-to-end machine-learning workflow.
 5. **Communicate:** Explain the findings, assumptions, limitations, and possible next steps.
 
 ## 📈 GitHub Statistics
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
 
 <div align="center">
 
@@ -176,6 +196,11 @@ A learning project exploring an end-to-end machine-learning workflow.
 
 ## 🎯 What I'm Working Toward
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
+
 - Strengthening practical SQL for business and reporting problems.
 - Improving Excel and Power BI dashboard development.
 - Building clear, well-documented analytics projects.
@@ -183,6 +208,11 @@ A learning project exploring an end-to-end machine-learning workflow.
 - Preparing for Data Analyst and MIS Executive opportunities.
 
 ## 🤝 Let's Connect
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:171412,45:4B2B20,75:A6532C,100:FFB45B&animation=twinkling" alt="Animated warm pixel-inspired section divider"/>
+</div>
+
 
 <div align="center">
 
