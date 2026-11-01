@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050816,30:102A43,65:245B8F,100:00D9FF&text=OMKAR%20S.%20KSHIRSAGAR&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20MIS%20EXECUTIVE%20%7C%20BUSINESS%20INTELLIGENCE&descSize=15&descAlignY=60&animation=twinkling" alt="Animated Omkar S Kshirsagar banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:171412,30:34231D,65:8B3F22,100:FF9B45&text=OMKAR%20S.%20KSHIRSAGAR&fontColor=FFF1D6&fontSize=42&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20MIS%20EXECUTIVE%20%7C%20BUSINESS%20INTELLIGENCE&descSize=15&descAlignY=60&animation=twinkling" alt="Animated Omkar S Kshirsagar banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=820&height=55&lines=I+turn+data+into+clear+business+insights;SQL+%7C+EXCEL+%7C+POWER+BI+%7C+PYTHON;Data+Cleaning+%7C+KPI+Reporting+%7C+Dashboards;Building+practical+analytics+projects" alt="Animated professional introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=FFB45B&center=true&vCenter=true&repeat=true&width=820&height=55&lines=I+turn+data+into+clear+business+insights;SQL+%7C+EXCEL+%7C+POWER+BI+%7C+PYTHON;Data+Cleaning+%7C+KPI+Reporting+%7C+Dashboards;Building+practical+analytics+projects" alt="Animated professional introduction"/>
 
-<img src="https://komarev.com/ghpvc/?username=osk25-xc&style=for-the-badge&color=0e7490&label=PROFILE+VISITS" alt="Profile visits"/>
+<img src="https://komarev.com/ghpvc/?username=osk25-xc&style=for-the-badge&color=C46A35&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🐈‍⬛ About Me
 
 Hi, I'm **Omkar S. Kshirsagar** — an aspiring **Data Analyst / MIS Executive** focused on data analysis, business reporting, and visualization.
 
@@ -31,12 +31,12 @@ I enjoy taking raw datasets, understanding the business question, checking data 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark" alt="Python, MySQL and PostgreSQL"/>
 
 ### Reporting, BI & Visualization
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-9A5A2E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-E9A23B?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-3B2925?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-594236?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-8C5638?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-B8794B?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code and Jupyter"/>
@@ -142,11 +142,11 @@ A learning project exploring an end-to-end machine-learning workflow.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Understand_the_Business_Problem-102A43?style=for-the-badge" alt="Step 1"/>
-<img src="https://img.shields.io/badge/02-Inspect_and_Clean_Data-164E63?style=for-the-badge" alt="Step 2"/>
-<img src="https://img.shields.io/badge/03-Analyze_with_SQL%2FPython-155E75?style=for-the-badge" alt="Step 3"/>
-<img src="https://img.shields.io/badge/04-Build_Reports_and_Dashboards-0E7490?style=for-the-badge" alt="Step 4"/>
-<img src="https://img.shields.io/badge/05-Communicate_Actionable_Insights-0891B2?style=for-the-badge" alt="Step 5"/>
+<img src="https://img.shields.io/badge/01-Understand_the_Business_Problem-3B2925?style=for-the-badge" alt="Step 1"/>
+<img src="https://img.shields.io/badge/02-Inspect_and_Clean_Data-5A3828?style=for-the-badge" alt="Step 2"/>
+<img src="https://img.shields.io/badge/03-Analyze_with_SQL%2FPython-7A452A?style=for-the-badge" alt="Step 3"/>
+<img src="https://img.shields.io/badge/04-Build_Reports_and_Dashboards-A6532C?style=for-the-badge" alt="Step 4"/>
+<img src="https://img.shields.io/badge/05-Communicate_Actionable_Insights-D97736?style=for-the-badge" alt="Step 5"/>
 
 </div>
 
@@ -160,17 +160,17 @@ A learning project exploring an end-to-end machine-learning workflow.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=osk25-xc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub contribution and repository statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=osk25-xc&show_icons=true&hide_border=true&bg_color=171412&title_color=FFB45B&icon_color=E58A45&text_color=F3E8D0&rank_icon=github" alt="GitHub contribution and repository statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osk25-xc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most used languages on GitHub"/>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=osk25-xc&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osk25-xc&layout=compact&hide_border=true&bg_color=171412&title_color=FFB45B&text_color=F3E8D0" alt="Most used languages on GitHub"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osk25-xc&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=osk25-xc&theme=dark&hide_border=true&background=171412&ring=FFB45B&fire=E58A45&currStreakLabel=FFB45B" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osk25-xc&bg_color=171412&color=F3E8D0&line=FFB45B&point=FFF1D6&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -195,6 +195,6 @@ A learning project exploring an end-to-end machine-learning workflow.
 
 *Learning through projects • Improving through practice • Growing with data*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D9FF,50:245B8F,100:050816" alt="Animated profile footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:171412,50:8B3F22,100:FF9B45" alt="Animated profile footer"/>
 
 </div>
