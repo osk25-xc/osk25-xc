@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:171412,30:34231D,65:8B3F22,100:FF9B45&text=OMKAR%20S.%20KSHIRSAGAR&fontColor=FFF1D6&fontSize=42&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20MIS%20EXECUTIVE%20%7C%20BUSINESS%20INTELLIGENCE&descSize=15&descAlignY=60&animation=twinkling" alt="Animated Omkar S Kshirsagar banner"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/osk25-xc/osk25-xc/main/assets/pixel-orange-animated.svg" alt="Animated orange pixel-art background with glowing particles"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=800&color=FFB45B&center=true&vCenter=true&repeat=true&width=820&height=55&lines=I+turn+data+into+clear+business+insights;SQL+%7C+EXCEL+%7C+POWER+BI+%7C+PYTHON;Data+Cleaning+%7C+KPI+Reporting+%7C+Dashboards;Building+practical+analytics+projects" alt="Animated professional introduction"/>
 
 <img src="https://komarev.com/ghpvc/?username=osk25-xc&style=for-the-badge&color=C46A35&label=PROFILE+VISITS" alt="Profile visits"/>
