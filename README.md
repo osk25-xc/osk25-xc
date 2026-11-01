@@ -67,6 +67,28 @@ I enjoy taking raw datasets, understanding the business question, checking data 
 
 These projects are hands-on portfolio work using practice datasets. Project descriptions explain the analysis focus; check each repository for the current files, implementation, and outputs.
 
+### 🧩 New End-to-End Analytics Case Studies
+
+Five additional case studies with separate synthetic datasets (500 records each), Python starter analysis, PostgreSQL queries, Power BI DAX measures, and project documentation.
+
+**10. [E-commerce Customer & Revenue Analysis](https://github.com/osk25-xc/data-analytics-projects/tree/main/E-commerce-Customer-Revenue-Analysis)**
+- Revenue, profit, AOV, repeat customers, category and regional performance.
+
+**11. [HR Analytics — Employee Attrition](https://github.com/osk25-xc/data-analytics-projects/tree/main/HR-Analytics-Employee-Attrition)**
+- Headcount, attrition, department, tenure, overtime and satisfaction.
+
+**12. [Bank Loan & Risk Analysis](https://github.com/osk25-xc/data-analytics-projects/tree/main/Bank-Loan-Risk-Analysis)**
+- Loan applications, approval patterns, credit scores and default indicators.
+
+**13. [Supply Chain & Inventory MIS](https://github.com/osk25-xc/data-analytics-projects/tree/main/Supply-Chain-Inventory-MIS)**
+- Stock levels, reorder points, inventory value, warehouses and supplier lead times.
+
+**14. [Food Delivery — Operations & Performance](https://github.com/osk25-xc/data-analytics-projects/tree/main/Food-Delivery-Operations-Analysis)**
+- Delivery time, late orders, cuisine, city, ratings and order value.
+
+<sub>Dataset note: These five case studies use generated synthetic practice records, not real business data. They are portfolio starter implementations; dashboard files and validated business conclusions are not claimed as completed.</sub>
+
+
 ### 📊 Excel & Power BI
 
 **1. [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel)**
