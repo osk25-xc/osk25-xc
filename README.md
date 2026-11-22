@@ -89,6 +89,18 @@ Five separate repositories with synthetic datasets (500 records each), project d
 <sub>Dataset note: These five case studies use generated synthetic practice records, not real business data. They are portfolio starter implementations; dashboard files and validated business conclusions are not claimed as completed.</sub>
 
 
+### 📱 Omnichannel & Business Intelligence
+
+**15. [Bholu Mobile — Omnichannel Sales Performance Dashboard](https://github.com/osk25-xc/Bholu-Mobile-Omnichannel-Dashboard)**
+
+An interactive Power BI dashboard designed to review mobile retail sales performance across brands, payment modes, customer types, segments, and outlet cities.
+
+- **KPIs shown:** Revenue, profit, net margin, offline share, delivered orders, and return rate.
+- **Visual analysis:** Monthly revenue trends, revenue by payment mode, brand, segment, and outlet city, with a detailed product-level table.
+- **Interactivity:** Brand and payment-mode slicers plus customer-type filtering.
+- **Tool:** Microsoft Power BI.
+- **Goal:** Bring key omnichannel sales indicators into one executive overview for business performance monitoring.
+
 ### 📊 Excel & Power BI
 
 **1. [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel)**
