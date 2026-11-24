@@ -23,6 +23,27 @@ I enjoy taking raw datasets, understanding the business question, checking data 
 - 🧠 **Business areas explored:** Retail sales, e-commerce, customer churn, customer segmentation, HR analytics
 - 🌱 **Current learning focus:** Advanced SQL, DAX, dashboard design, and communicating business insights
 
+
+## 🆕 Recent SQL Analytics Projects
+
+New PostgreSQL case studies with documented business questions, reproducible SQL scripts, synthetic practice data, and visual overview previews.
+
+| Project | Focus | Preview |
+|---|---|---|
+| [Customer Purchase Behavior](https://github.com/osk25-xc/Customer-Purchase-Behavior-SQL) | Repeat buying, customer value, category mix | [View](https://github.com/osk25-xc/Customer-Purchase-Behavior-SQL/blob/main/screenshots/overview.svg) |
+| [Credit Card Transaction Analysis](https://github.com/osk25-xc/Credit-Card-Transaction-Analysis) | Spend patterns, approvals, merchant categories | [View](https://github.com/osk25-xc/Credit-Card-Transaction-Analysis/blob/main/screenshots/overview.svg) |
+| [Online Retail Order Analysis](https://github.com/osk25-xc/Online-Retail-Order-Analysis) | Net sales, delivery, returns, product categories | [View](https://github.com/osk25-xc/Online-Retail-Order-Analysis/blob/main/screenshots/overview.svg) |
+| [Employee Compensation Analysis](https://github.com/osk25-xc/Employee-Compensation-Analysis) | Payroll, role and department pay distribution | [View](https://github.com/osk25-xc/Employee-Compensation-Analysis/blob/main/screenshots/overview.svg) |
+| [Restaurant Business Performance](https://github.com/osk25-xc/Restaurant-Business-Performance-SQL) | Outlet sales, order channels, prep time | [View](https://github.com/osk25-xc/Restaurant-Business-Performance-SQL/blob/main/screenshots/overview.svg) |
+| [Airline Operations Analysis](https://github.com/osk25-xc/Airline-Operations-Analysis) | Flight punctuality, cancellations, load factor | [View](https://github.com/osk25-xc/Airline-Operations-Analysis/blob/main/screenshots/overview.svg) |
+| [Netflix Content Analysis](https://github.com/osk25-xc/Netflix-Content-Analysis) | Catalogue mix, genres, release trends | [View](https://github.com/osk25-xc/Netflix-Content-Analysis/blob/main/screenshots/overview.svg) |
+| [Spotify Music Trends](https://github.com/osk25-xc/Spotify-Music-Trends-Analysis) | Track popularity, artists, audio features | [View](https://github.com/osk25-xc/Spotify-Music-Trends-Analysis/blob/main/screenshots/overview.svg) |
+| [YouTube Channel Performance](https://github.com/osk25-xc/YouTube-Channel-Performance-Analysis) | Views, engagement, subscriber conversion | [View](https://github.com/osk25-xc/YouTube-Channel-Performance-Analysis/blob/main/screenshots/overview.svg) |
+| [Stock Market Data Analysis](https://github.com/osk25-xc/Stock-Market-Data-Analysis) | Daily returns, moving averages, volume | [View](https://github.com/osk25-xc/Stock-Market-Data-Analysis/blob/main/screenshots/overview.svg) |
+| [Weather Data Analytics](https://github.com/osk25-xc/Weather-Data-Analytics) | Temperature, rainfall, humidity | [View](https://github.com/osk25-xc/Weather-Data-Analytics/blob/main/screenshots/overview.svg) |
+
+**Data transparency:** These SQL case studies currently use small synthetic illustrative datasets for learning and demonstration. Their overview images are portfolio preview illustrations, not captures of live business dashboards. Replace sample records with licensed real datasets before drawing real-world conclusions.
+
 ## 🧰 Skills & Tools
 
 <div align="center">
